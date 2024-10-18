@@ -1,0 +1,26 @@
+body{
+    display: grid;
+    grid-template-columns: 10fr 75fr;
+    grid-template-rows: 15vh 70vh;
+    gap: 20px;
+    /* border: solid 2px black;
+    border-radius: 3px; */
+    
+}
+
+img{
+    height: 100%;
+}
+
+.center-klass{
+    text-align: center;
+}
+
+
+.div-klass {
+    border: solid 3px black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+}
+
